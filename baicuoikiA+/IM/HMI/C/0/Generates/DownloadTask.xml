@@ -2,7 +2,7 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="15.0.0.0"
-    CreationTime="2023-10-12 13:00:00 (UTC)"
+    CreationTime="2023-10-14 16:55:07 (UTC)"
     Runtime="COLORADO"
     RtProjectName="baicuoikiA+.PC-System_1[SIMATIC PC station - WinCC RT Advanced]"
     RtProjectFolderName="baicuoikiA+.PC-System_1[SIMATIC PC station - WinCC RT Advanced]"
@@ -22,4 +22,6 @@
   <FullDownload>ProjectSettings.hsf</FullDownload>
   <License
     type="WCRT011500">WinCC RT Advanced (128)</License>
+  <License
+    type="WCLORT9999">WinCC Logging for RT Advanced</License>
 </DownloadTask>
